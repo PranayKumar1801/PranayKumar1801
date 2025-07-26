@@ -8,9 +8,9 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 B.Tech in *Computer Science & Engineering* from *NIST, Odisha* (2020–2024)
-- 🛠 Currently working as *SDE-1 at Amossys Consulting Services*, Bangalore
-- 💬 Passionate about *System Design, **Microservices, and building **scalable backend architectures*
+- 🎓 B.Tech in *Computer Science & Engineering* from NIST, Odisha (2020–2024)
+- 🛠 Currently working as SDE-1 at Amossys Consulting Services, Bangalore
+- 💬 Passionate about System Design, Microservices, and building scalable backend architectures
 - 🧠 Problem Solver | 500+ DSA Problems Solved | Max LeetCode Rating: *1500+*
 
 ---
