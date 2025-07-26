@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Software Development Engineer | CSE Grad | System Design & Backend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=440&lines=Code.+Design.+Scale.;Backend+Engineer+with+Java+%2B+Python;Distributed+Systems+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=650&lines=Code.+Design.+Scale.;Backend+Engineer+with+Java+%26+Python;Distributed+Systems+Explorer" alt="Typing SVG" />
 </p>
+
 
 
 
